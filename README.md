@@ -1,4 +1,10 @@
 # 💫 About Me:
+<!-- Example: a full-width GIF -->
+<p align="center">
+  <img src="https://your-gif-url.gif" alt="animated gif" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Vineet Patel</h1>
 <h3 align="center">A passionate Information & Technology Student</h3>
 
