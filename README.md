@@ -1,7 +1,7 @@
 # 💫 About Me:
 <!-- Example: a full-width GIF -->
 <p align="center">
-  <img src="https://your-gif-url.gif" alt="animated gif" width="100%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDh3YjRwdmdoNHpqcDNuczhsY3Q0Z2x4M2Z3ZGc4N2YxbDUzbzhldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="animated gif" width="100%" />
 </p>
 
 
