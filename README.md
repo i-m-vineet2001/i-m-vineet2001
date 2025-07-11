@@ -60,6 +60,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=i-m-vineet2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=i-m-vineet2001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-m-vineet2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExand5NHM0eWpzbnFxYjl0cHVlN2F4YWJkM3l5bW9kc2V5cDc0c3VidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dnoyd6rMvw29q/giphy.gif" 
+       alt="animated line divider" 
+       width="100%" 
+       height="30px" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
