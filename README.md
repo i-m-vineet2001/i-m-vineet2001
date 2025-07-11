@@ -18,6 +18,13 @@
 ![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Neon](https://img.shields.io/badge/neon-%2300B3E6.svg?style=for-the-badge&logo=neon&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-0A0A0A?style=for-the-badge&logo=drizzle&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-3E54E3?style=for-the-badge&logo=clerk&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-121212?style=for-the-badge&logo=radix-ui&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=i-m-vineet2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
