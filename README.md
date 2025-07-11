@@ -7,7 +7,7 @@
 
 ## 🐍 GitHub Snake Animation
 
-![Snake animation](https://github.com/i-m-vineet2001/i-m-vineet2001/blob/output/snake.svg)
+![Snake animation](https://github.com/i-m-vineet2001/i-m-vineet2001/blob/output/dist/snake.svg)
 
 
 
