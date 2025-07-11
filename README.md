@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+## 🚀 About Me
+
+🔭 I’m currently working on building full-stack applications and experimenting with AI and data analytics projects.
+
+👯 I’m looking to collaborate on innovative AI tools, agent-based systems, and data-driven web applications.
+
+🤝 I’m looking for help with scaling AI workflows, integrating advanced analytics, and building robust backend systems.
+
+🌱 I’m currently learning more about AI agents, large language models, advanced TypeScript, and modern frameworks like Next.js and GraphQL.
+
+💬 Ask me about web development, full-stack projects, AI and data analytics, or anything related to my tech stack!
+
+⚡ Fun fact: I have a bit of knowledge in finance, the stock market, and forex technical analysis — and I love exploring how tech can simplify trading and investing.
+
 
 
 ## 🌐 Socials:
