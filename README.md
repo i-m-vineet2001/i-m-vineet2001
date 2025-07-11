@@ -19,31 +19,13 @@
 🌱 I’m currently learning more about AI agents, large language models, advanced TypeScript, and modern frameworks like Next.js and GraphQL.<br>
 💬 Ask me about web development, full-stack projects, AI and data analytics, or anything related to my tech stack!<br>
 ⚡ Fun fact: I have a bit of knowledge in finance, the stock market, and forex technical analysis — and I love exploring how tech can simplify trading and investing.
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExand5NHM0eWpzbnFxYjl0cHVlN2F4YWJkM3l5bW9kc2V5cDc0c3VidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dnoyd6rMvw29q/giphy.gif" 
-       alt="animated line divider" 
-       width="100%" 
-       height="20px" />
-</p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@i_m_vineeet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineetpatel2001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelvineet71@gmail.com) 
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExand5NHM0eWpzbnFxYjl0cHVlN2F4YWJkM3l5bW9kc2V5cDc0c3VidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dnoyd6rMvw29q/giphy.gif" 
-       alt="animated line divider" 
-       width="100%" 
-       height="20px" />
-</p>
 ## 🐍 GitHub Snake Animation
 ![Snake animation](https://github.com/i-m-vineet2001/workflow/blob/output/snake.svg)
 
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExand5NHM0eWpzbnFxYjl0cHVlN2F4YWJkM3l5bW9kc2V5cDc0c3VidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dnoyd6rMvw29q/giphy.gif" 
-       alt="animated line divider" 
-       width="100%" 
-       height="20px" />
-</p>
 
 
 # 💻 Tech Stack:
@@ -69,12 +51,6 @@
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExand5NHM0eWpzbnFxYjl0cHVlN2F4YWJkM3l5bW9kc2V5cDc0c3VidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dnoyd6rMvw29q/giphy.gif" 
-       alt="animated line divider" 
-       width="100%" 
-       height="20px" />
-</p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=i-m-vineet2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=i-m-vineet2001&theme=dark&hide_border=false)<br/>
