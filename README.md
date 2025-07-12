@@ -102,7 +102,7 @@
        alt="animated line divider" 
        height="200px"
 
-    />
+    
 </p>
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExand5NHM0eWpzbnFxYjl0cHVlN2F4YWJkM3l5bW9kc2V5cDc0c3VidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dnoyd6rMvw29q/giphy.gif" 
