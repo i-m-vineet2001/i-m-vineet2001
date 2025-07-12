@@ -101,7 +101,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25jNHJxd3Bxcmlka2hkdDJ0ZGhvdTZlNTlqdHBjY3Zxa3dzcDZkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7ToCSL2c1PnMsw/giphy.gif" 
        alt="animated line divider" 
        height="200px"
-    width="100%"
+    width="100px"
     />
 </p>
 <p align="center">
