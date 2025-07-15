@@ -27,7 +27,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/@i_m_vineeet)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/i_m_vin/)
 
-## 🐍 GitHub Snake Animation
+## 🐍 Snake 
 ![Snake animation](https://github.com/i-m-vineet2001/workflow/blob/output/snake.svg)
 
 
