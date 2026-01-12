@@ -104,6 +104,8 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![CherryPy](https://img.shields.io/badge/CherryPy-Framework-2ea44f?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
+![CherryPy](https://img.shields.io/badge/CherryPy-Web%20Framework-green?style=for-the-badge&logo=python&logoColor=white)
 
 
 
