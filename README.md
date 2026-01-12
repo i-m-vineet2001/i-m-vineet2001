@@ -13,12 +13,12 @@
 
 
 
-🔭 I’m currently working on building full-stack applications and experimenting with AI and data analytics projects.<br>
-👯 I’m looking to collaborate on innovative AI tools, agent-based systems, and data-driven web applications.<br>
-🤝 I’m looking for help with scaling AI workflows, integrating advanced analytics, and building robust backend systems.<br>
-🌱 I’m currently learning more about AI agents, large language models, advanced TypeScript, and modern frameworks like Next.js and GraphQL.<br>
-💬 Ask me about web development, full-stack projects, AI and data analytics, or anything related to my tech stack!<br>
-⚡ Fun fact: I have a bit of knowledge in finance, the stock market, and forex technical analysis — and I love exploring how tech can simplify trading and investing.
+🔭 Currently working on building full-stack applications and actively experimenting with AI and data analytics projects.
+👯 Open to collaborating on innovative AI tools, agent-based systems, and data-driven web applications.
+🤝 Seeking opportunities to improve scalable AI workflows, advanced analytics integration, and robust backend architectures.
+🌱 Currently learning AI agents, large language models (LLMs), advanced TypeScript, and modern frameworks such as Next.js and GraphQL.
+💬 Happy to discuss web development, full-stack engineering, AI & data analytics, and anything related to my tech stack.
+⚡ Fun fact: I have hands-on knowledge of finance, the stock market, and forex technical analysis—and enjoy exploring how technology can simplify trading and investing.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@i_m_vineeet) 
@@ -103,8 +103,6 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![CherryPy](https://img.shields.io/badge/CherryPy-Framework-2ea44f?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![CherryPy](https://img.shields.io/badge/CherryPy-Web%20Framework-green?style=for-the-badge&logo=python&logoColor=white)
 
 
