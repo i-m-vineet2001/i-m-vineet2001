@@ -14,10 +14,10 @@
 
 
 🔭 Currently working on building full-stack applications and actively experimenting with AI and data analytics projects. <br>
-👯 Open to collaborating on innovative AI tools, agent-based systems, and data-driven web applications.
-🤝 Seeking opportunities to improve scalable AI workflows, advanced analytics integration, and robust backend architectures.
-🌱 Currently learning AI agents, large language models (LLMs), advanced TypeScript, and modern frameworks such as Next.js and GraphQL.
-💬 Happy to discuss web development, full-stack engineering, AI & data analytics, and anything related to my tech stack.
+👯 Open to collaborating on innovative AI tools, agent-based systems, and data-driven web applications.<br>
+🤝 Seeking opportunities to improve scalable AI workflows, advanced analytics integration, and robust backend architectures.<br>
+🌱 Currently learning AI agents, large language models (LLMs), advanced TypeScript, and modern frameworks such as Next.js and many mores.<br>
+💬 Happy to discuss web development, full-stack engineering, AI & data analytics, and anything related to my tech stack.<br>
 ⚡ Fun fact: I have hands-on knowledge of finance, the stock market, and forex technical analysis—and enjoy exploring how technology can simplify trading and investing.
 
 ## 🌐 Socials:
