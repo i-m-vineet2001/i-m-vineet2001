@@ -13,7 +13,7 @@
 
 
 
-🔭 Currently working on building full-stack applications and actively experimenting with AI and data analytics projects.
+🔭 Currently working on building full-stack applications and actively experimenting with AI and data analytics projects. <br>
 👯 Open to collaborating on innovative AI tools, agent-based systems, and data-driven web applications.
 🤝 Seeking opportunities to improve scalable AI workflows, advanced analytics integration, and robust backend architectures.
 🌱 Currently learning AI agents, large language models (LLMs), advanced TypeScript, and modern frameworks such as Next.js and GraphQL.
